@@ -3,6 +3,7 @@ Esta script es de python la publico por aki en mi github, cabe recalcar que la s
 
 Requisitos instalar paquete git
 Tener toda las librerías de la script(esto si no les corre el programa)
+Instala esta importante pip install pyfiglet
 
 *****
 Uso:
