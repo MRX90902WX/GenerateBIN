@@ -4,6 +4,7 @@ Esta script es de python la publico por aki en mi github, cabe recalcar que la s
 Requisitos instalar paquete git
 Tener toda las librerías de la script(esto si no les corre el programa)
 
+*****
 Uso:
 Clonar repositorio
 git clone https://github.com/MRX90902WX/GenerateBIN
