@@ -17,7 +17,7 @@ python bin.py (si no les funciona pueden usar python2 bin.py)
 
 para pasar las pruebas de verificación de compras de cuentas
 
-funciona bien para youtube premiun 
+funciona bien para youtube premiun , asociarla la tarjeta de crédito a la Google play deben crearse una cuenta de gmail
 
 NOTA: intenten usarla para sacar cuentas de netflix, hbo max, disney, paramaount
 
