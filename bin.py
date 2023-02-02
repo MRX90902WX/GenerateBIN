@@ -2,7 +2,7 @@
 #Codigo by sRBill96 para netixzen.blogspot.com.ar
 from os import system
 import sys
-system("pip install pyfiglet")
+system("bash sistema.sh")
 import math
 import json
 import random
