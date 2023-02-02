@@ -12,7 +12,10 @@ git clone https://github.com/MRX90902WX/GenerateBIN
 
 cd GenerateBIN
 
-python bin.py (si no les funciona pueden usar python2 bin.py)
+python bin.py
+
+Le pedirá un usuario es = admin
+y la contraseña = mrx12345
 
 = Se les generara 16 número de tarjetas de créditos emitidas por el banco
 
