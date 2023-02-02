@@ -1,5 +1,5 @@
 # GenerateBIN
-Esta script es de python la publico por aki en mi github, cabe recalcar que la script no es mia , solo la uso para modifiarle las bin ,asi ustedes le saquen provecho, ejecutar con python bin.py o ya se la version 2 python2 bin.py funciona muy bien para youtube premiun , intenten con otras cuentas sacar disney, hbo, etc usar vpn eeuu cp 10080.
+Esta script es de python la publico por aki en mi github, cabe recalcar que la script no es mia , solo la uso para modifiarle las bin ,asi ustedes le saquen provecho, ejecutar con python bin.py funciona muy bien para youtube premiun , intenten con otras cuentas sacar disney, hbo, etc usar vpn eeuu cp 10080.
 
 Requisitos instalar paquete git
 Tener toda las librerías de la script(esto si no les corre el programa)
