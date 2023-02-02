@@ -1,11 +1,12 @@
 #!/usr/bin/env Python 3.6
 #Codigo by sRBill96 para netixzen.blogspot.com.ar
+from os import system
 import sys
+system("pip install pyfiglet")
 import math
 import json
 import random
 import datetime
-from os import system
 import pyfiglet
 system("clear")
 banner = pyfiglet.figlet_format("GenerateBIN")
