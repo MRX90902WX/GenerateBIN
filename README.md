@@ -31,4 +31,6 @@ https://wa.me/message/32LV6O5SFG5TA1?src=qr
 *****
 Estaré agregandole nuevos bin a la script, si se queman los que ya están
 
+Créditos: sRBill96
+
 #GRACIAS POR SU ATENCIÓN!!!
