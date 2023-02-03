@@ -7,6 +7,7 @@ import json
 import random
 import datetime
 system("clear")
+system("setterm -foreground green")
 print("  ____                           _       ____ ___ _   _")
 print(" / ___| ___ _ __   ___ _ __ __ _| |_ ___| __ )_ _| \ | |")
 print("| |  _ / _ \ '_ \ / _ \ '__/ _` | __/ _ \  _ \| ||  \| |")
