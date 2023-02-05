@@ -173,7 +173,7 @@ if __name__ == "__main__":
 		bin_generar = str(argv[1])
 		num = Generar_tarjeta(bin_generar,int(argv[2]),True)
 	else:
-		print("USO:  BIN_BASE CANTIDAD")
+		print("USO:  SOLO PARA YOUTUBE PREMIUN")
 
 
 bin_muestra = "424094007802xxxx"
