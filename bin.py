@@ -182,7 +182,7 @@ num = Generar_tarjeta(bin_muestra,16,True)
 print("")
 print("----------------------------------------------------")
 print("Asociar su cuenta gmail a Google play")
-print("Ponen el número de tarjetas más mm/aa ,cvv")
+print("Ponen el número de la tarjeta  más mm/aa ,cvv")
 print("Elijen el país Estados Unidos, codigo postal 10080")
 
 #num = Generar_tarjeta(bin_muestra,1)
