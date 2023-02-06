@@ -13,8 +13,7 @@ cd GenerateBIN
 
 python bin.py
 
-Le pedirá un usuario es = admin
-y la contraseña = mrx12345
+Le pedirá una contraseña = mrx12345
 
 = Se les generara 16 número de tarjetas de créditos emitidas por el banco
 
@@ -31,6 +30,8 @@ https://wa.me/message/32LV6O5SFG5TA1?src=qr
 *****
 Estaré agregandole nuevos bin a la script, si se queman los que ya están
 
-Créditos: sRBill96
+Créditos: 
+
+- sRBill96
 
 #GRACIAS POR SU ATENCIÓN!!!
