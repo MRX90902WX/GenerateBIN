@@ -17,14 +17,8 @@ print(" ")
 print(" ")
 print(" ")
 
-a = input("[♤]Usuario: ")
-
-if a == 'admin':
-   print("User login")
-else:
-   print("[x]Acceso denegado")
-   exit()
- 
+print("[♤]Usuario: admin")
+print("User login")
 
 b = input("[♤]Password: ")
 
