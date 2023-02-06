@@ -17,7 +17,7 @@ print(" ")
 print(" ")
 print(" ")
 
-a = input("[♤]Usuario : ")
+a = input("[♤]Usuario: ")
 
 if a == 'admin':
    print("User login")
@@ -26,7 +26,7 @@ else:
    exit()
  
 
-b = input("[♤]Password : ")
+b = input("[♤]Password: ")
 
 if b == 'mrx12345':
    print("Passwd login")
@@ -179,7 +179,11 @@ if __name__ == "__main__":
 bin_muestra = "424094007802xxxx"
 #imprimir resultado en consola
 num = Generar_tarjeta(bin_muestra,16,True)
-
+print("")
+print("----------------------------------------------------")
+print("Asociar su cuenta gmail a Google play")
+print("Ponen el número de tarjetas más mm/aa ,cvv")
+print("Elijen el país Estados Unidos, codigo postal 10080")
 
 #num = Generar_tarjeta(bin_muestra,1)
 #print()
