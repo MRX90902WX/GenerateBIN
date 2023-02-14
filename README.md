@@ -13,8 +13,6 @@ cd GenerateBIN
 
 python bin.py
 
-Ingresan y para continuar n para salir 
-
 Le pedirá una contraseña = mrx12345
 
 = Ingresan el bin de youtube premiun ej: 424094007802xxxx
