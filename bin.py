@@ -36,7 +36,7 @@ else:
 class Generar_tarjeta():
 	def __init__(self,BIN, cantidad=1, solo_impresion=True):
 		self.BIN = BIN.replace(" ","")#Procesar espacios
-		self.db_bins = (a)			
+		self.db_bins = ()			
 
 		if(len(self.BIN) > 16 or len(self.BIN) < 15):#Tiene que tener la longitud indicada
 			print("Por favor revisa la longitud del BIN.")
