@@ -196,7 +196,6 @@ print("\033[1;31m~\033[1;34mGracias !! por \033[1;33mUtilizarla ;)")
 #obtener lista
 #lista = num.lista_tarjetas
 print("")
-system("bash main.sh")
 
 
 
